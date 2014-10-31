@@ -46,7 +46,7 @@ header {
 	font-family: 'helvetica'; 
 	font-size: 28px; 
 	color: white; 
-	background: #8dcb41;
+	background: #80BD01;
 	text-align: center; 
 	margin: auto
 	width: 60%; }
@@ -76,8 +76,35 @@ a:hover {
 	margin: auto;
 	background-color: white;
 	opacity: .88;
-	width: 100%; }
+	width: 100%; 
+	top: 0;}
+	
+.edit {
+	font-size: 16px;
+	line-height: 29px;
+	width:55%;
+	margin: auto;
+	text-align: left; }
+.edit h2 {
+	color: white;
+	font-family: Helvetica;
+	font-size: 53px; } 
 
+.hello {
+	margin-top: 120px; }
 
+footer {
+	color: white; 
+	font-size: 12px;
+	background: #80BD01; 
+	padding: 12px; }
+	
+.test {
+	background: #80BD01;
+	padding: 20px; }
+	
+ul{
+	list-style-type: none;
+	padding: 0px; }
 
 	
